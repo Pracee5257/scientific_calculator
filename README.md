@@ -25,13 +25,6 @@ This multifunctional calculator is designed to operate basic to advanced level a
 •	Mathplotlib<br>
 •	NumPy
 
-<h1><u><b>Installation</b></u></h1>
-
-<h1><u><b>Clone this repository </b></u></h1>
-
-
-
-
 <h1><u><b>Screenshots</b></u></h1>
 
 <h2><u><b>	Menu bar<br></b></u></h2>
