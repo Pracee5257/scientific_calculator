@@ -21,7 +21,7 @@ This multifunctional calculator is designed to operate basic to advanced level a
 
 <h1><u><b>Technology used</b></u></h1>
 
-•	Python<br>
+•	Python 3.13<br>
 •	Mathplotlib<br>
 •	NumPy
 
