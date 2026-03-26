@@ -57,7 +57,9 @@ This multifunctional calculator is designed to operate basic to advanced level a
 
 ![history](https://github.com/user-attachments/assets/2604a0bb-4d35-423c-ba6c-a9846cfa029b)
 
-
+<h1><b><u>Demo Video</u></b></h1>
+<b>clik here👉</b>
+https://youtu.be/Ice6DxJIzfo?si=5j2MfREyKQ21KXLA
 
 <h1><u><b>Author</b></u></h1>
 Pracee Dass 
