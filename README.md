@@ -35,10 +35,13 @@ This multifunctional calculator is designed to operate basic to advanced level a
 <h1><u><b>Screenshots</b></u></h1>
 
 <h2><u><b>	Menu bar<br></b></u></h2>
-![menu](https://github.com/user-attachments/assets/d9b4a009-8272-4520-a1f9-c64f3af16f75)
+<img width="215" height="317" alt="25 03 2026_15 34 26_REC" src="https://github.com/user-attachments/assets/76d925f0-553d-4389-9e89-8ebb05df3dc4" />
+
+
 
 <h2><u><b>	Advanced operation<br></b></u></h2>
-![tan](https://github.com/user-attachments/assets/617a5ef8-003d-40bc-918e-afd7c7a4cbd3)<br>
+<img width="593" height="361" alt="26 03 2026_15 29 05_REC" src="https://github.com/user-attachments/assets/50ff7a89-4b29-4dad-9552-886cf05edc07" />
+
 
 ![trig](https://github.com/user-attachments/assets/251a38f8-6d15-44c4-af8a-2a28c156eb8b)
 
